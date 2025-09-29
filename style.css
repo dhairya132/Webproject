@@ -1,0 +1,185 @@
+body { 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f4f4; 
+}
+
+.round {
+  width: 200px;
+  height: 200px;        
+  border-radius: 50%;   
+  object-fit: cover; 
+}
+
+header {
+    background: #333;
+    border-radius: 16px; 
+    color: white; 
+    padding: 15px; 
+    text-align: center; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+nav a { 
+    color: white; 
+    margin: 0 15px; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+
+nav a:hover { 
+    text-decoration: underline; 
+}
+
+.container { 
+    color: rgb(77, 4, 4);
+    width: 80%; 
+    margin: 40px auto; 
+    padding: 60px; 
+    border-radius: 8px;
+    text-align: center;
+    background-color: rgb(170, 172, 170); 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+
+#contact_us_external_css
+
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    background: #e6d6d6; 
+}
+
+
+header { 
+    background: #333; 
+    color: white; 
+    padding: 15px; 
+    text-align: center; 
+}
+
+
+nav a { 
+    color: white; 
+    margin: 0 15px; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+nav a:hover { 
+    text-decoration: underline; 
+}
+
+.container { 
+    width: 50%; 
+    margin: 20px auto; 
+    padding: 20px; 
+    background: white; 
+    border-radius: 8px; 
+}
+
+.h1c {
+    background-color: #cdc4c4;
+    width: 26%;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+form button {
+    background: #333;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
+form button:hover { 
+    background: #555; 
+}
+
+#about_us_css
+
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    background: #eadfdf; 
+}
+
+
+header { 
+    background: #333; 
+    color: white; 
+    padding: 15px; 
+    text-align: center; 
+}
+
+
+nav a { 
+    color: white; 
+    margin: 0 15px; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+nav a:hover { 
+    text-decoration: underline; 
+}
+
+.container {
+    color: #5f3535;
+    width: 80%; 
+    margin: 20px auto; 
+    padding: 20px; 
+    background: white; 
+    border-radius: 9px; 
+}
+
+.container2 {
+    text-align: center;
+    color: #5f3535;
+    width: 80%; 
+    margin: 20px auto; 
+    padding: 20px; 
+    background: #eadfdf; 
+    border-radius: 9px;
+}
+ 
+
+.hover_effect img:hover{
+    transform: scale(1.07);
+}
+
+.destination_pics img:hover{
+    transform: scale(1.03);
+}
+
+.destination_pics {
+   border-radius: 30%;
+}
+
+.container4th {
+    background-color: rgb(212, 208, 202);
+    border-radius: 8px;
+    margin: 100px;
+    padding: 30px;
+}
+
+.container3 {
+    background-color: rgb(212, 208, 202);
+    border-radius: 8px;
+    margin: 100px;
+    padding: 30px;
+}
+
+.container5th {
+    background-color: rgb(212, 208, 202);
+    border-radius: 8px;
+    margin: 100px;
+    padding: 30px;
+}
